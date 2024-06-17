@@ -4,6 +4,12 @@
 }
 
 .App footer {
-  font-size: 11px;
-  margin: 10px 0;
+  font-size: 14px;
+  margin: 30px 0;
+  text-align: center;
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+.App footer a {
+  color: white;
 }
